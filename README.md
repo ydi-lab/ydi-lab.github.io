@@ -1,2 +1,2 @@
 # ydi-lab.github.io
-The Yonsei Design &amp; Intelligence Lab
+The Yonsei Design &amp; Intelligence Research Lab
